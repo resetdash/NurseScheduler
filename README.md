@@ -1,4 +1,4 @@
-![image](https://github.com/resetdash/NurseScheduler/assets/56558215/443c5368-fc11-460e-83fb-975e4d74481b)# NurseScheduler
+# NurseScheduler
 Automated Nurse Schedule creator using google ortools api.
 
 Constraints:
