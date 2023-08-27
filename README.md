@@ -1,5 +1,5 @@
 # NurseScheduler
-Automated Nurse Schedule creator using google ortools api. A subset of the employee scheduling problem, an NP complete problem.
+Automated Nurse Schedule creator using google ortools api (constraint programming). A subset of the employee scheduling problem, an NP complete problem. 
 
 Constraints:
 1. Only qualified staff with the right skill can take on a duty
