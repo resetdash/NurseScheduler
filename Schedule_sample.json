@@ -1,0 +1,1072 @@
+[{
+		"staff": {
+			"staff_id": 1,
+			"staff_name": "1",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 2,
+			"staff_name": "2",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 3,
+			"staff_name": "3",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 4,
+			"staff_name": "4",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 5,
+			"staff_name": "5",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 6,
+			"staff_name": "6",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 7,
+			"staff_name": "7",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 8,
+			"staff_name": "8",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 9,
+			"staff_name": "9",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 10,
+			"staff_name": "10",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 11,
+			"staff_name": "11",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 12,
+			"staff_name": "12",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 13,
+			"staff_name": "13",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 14,
+			"staff_name": "14",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 15,
+			"staff_name": "15",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 16,
+			"staff_name": "16",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 17,
+			"staff_name": "17",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 18,
+			"staff_name": "18",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 19,
+			"staff_name": "19",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 20,
+			"staff_name": "20",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 21,
+			"staff_name": "21",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 21,
+			"staff_name": "21",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 22,
+			"staff_name": "22",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 23,
+			"staff_name": "23",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 24,
+			"staff_name": "24",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"staff": {
+			"staff_id": 25,
+			"staff_name": "25",
+			"designation": "shift staff"
+		}
+	},
+	{
+		"skills": {
+			"skill_id": 1,
+			"skill_name": "CT"
+		}
+	},
+	{
+		"skills": {
+			"skill_id": 2,
+			"skill_name": "MRI"
+		}
+	},
+	{
+		"skills": {
+			"skill_id": 3,
+			"skill_name": "Angio"
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 1,
+			"skill_id": 1,
+			"staff_id": 1
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 2,
+			"skill_id": 2,
+			"staff_id": 1
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 3,
+			"skill_id": 1,
+			"staff_id": 2
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 4,
+			"skill_id": 2,
+			"staff_id": 2
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 5,
+			"skill_id": 1,
+			"staff_id": 3
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 6,
+			"skill_id": 2,
+			"staff_id": 3
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 7,
+			"skill_id": 1,
+			"staff_id": 4
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 8,
+			"skill_id": 2,
+			"staff_id": 4
+		}
+	},    
+	{
+		"staff_skills": {
+			"ss_id": 9,
+			"skill_id": 3,
+			"staff_id": 4
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 10,
+			"skill_id": 1,
+			"staff_id": 5
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 11,
+			"skill_id": 2,
+			"staff_id": 5
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 12,
+			"skill_id": 1,
+			"staff_id": 6
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 13,
+			"skill_id": 2,
+			"staff_id": 6
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 14,
+			"skill_id": 1,
+			"staff_id": 7
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 15,
+			"skill_id": 2,
+			"staff_id": 7
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 16,
+			"skill_id": 1,
+			"staff_id": 8
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 17,
+			"skill_id": 2,
+			"staff_id": 8
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 18,
+			"skill_id": 1,
+			"staff_id": 9
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 19,
+			"skill_id": 2,
+			"staff_id": 9
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 20,
+			"skill_id": 1,
+			"staff_id": 10
+		}
+	},
+    {
+		"staff_skills": {
+			"ss_id": 21,
+			"skill_id": 2,
+			"staff_id": 10
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 22,
+			"skill_id": 3,
+			"staff_id": 10
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 23,
+			"skill_id": 1,
+			"staff_id": 11
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 24,
+			"skill_id": 2,
+			"staff_id": 11
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 25,
+			"skill_id": 1,
+			"staff_id": 12
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 26,
+			"skill_id": 2,
+			"staff_id": 12
+		}
+	},
+    {
+		"staff_skills": {
+			"ss_id": 27,
+			"skill_id": 3,
+			"staff_id": 12
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 28,
+			"skill_id": 1,
+			"staff_id": 13
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 29,
+			"skill_id": 2,
+			"staff_id": 13
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 30,
+			"skill_id": 1,
+			"staff_id": 14
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 31,
+			"skill_id": 2,
+			"staff_id": 14
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 32,
+			"skill_id": 1,
+			"staff_id": 15
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 33,
+			"skill_id": 2,
+			"staff_id": 15
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 34,
+			"skill_id": 1,
+			"staff_id": 16
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 35,
+			"skill_id": 2,
+			"staff_id": 16
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 36,
+			"skill_id": 1,
+			"staff_id": 17
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 37,
+			"skill_id": 2,
+			"staff_id": 17
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 38,
+			"skill_id": 1,
+			"staff_id": 18
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 39,
+			"skill_id": 2,
+			"staff_id": 18
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 40,
+			"skill_id": 1,
+			"staff_id": 19
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 41,
+			"skill_id": 2,
+			"staff_id": 19
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 42,
+			"skill_id": 1,
+			"staff_id": 20
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 43,
+			"skill_id": 2,
+			"staff_id": 20
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 44,
+			"skill_id": 1,
+			"staff_id": 21
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 45,
+			"skill_id": 2,
+			"staff_id": 21
+		}
+	},
+    {
+		"staff_skills": {
+			"ss_id": 46,
+			"skill_id": 3,
+			"staff_id": 21
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 47,
+			"skill_id": 1,
+			"staff_id": 22
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 48,
+			"skill_id": 2,
+			"staff_id": 22
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 49,
+			"skill_id": 1,
+			"staff_id": 23
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 50,
+			"skill_id": 2,
+			"staff_id": 23
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 51,
+			"skill_id": 2,
+			"staff_id": 24
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 52,
+			"skill_id": 3,
+			"staff_id": 24
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 53,
+			"skill_id": 1,
+			"staff_id": 25
+		}
+	},
+	{
+		"staff_skills": {
+			"ss_id": 54,
+			"skill_id": 2,
+			"staff_id": 25
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 1,
+			"duty_name": "CT",
+			"duty_type": 1,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 2,
+			"duty_name": "CT",
+			"duty_type": 1,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 3,
+			"duty_name": "CT2",
+			"duty_type": 1,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 4,
+			"duty_name": "CT2",
+			"duty_type": 1,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 5,
+			"duty_name": "CT3",
+			"duty_type": 1,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 6,
+			"duty_name": "CT3",
+			"duty_type": 1,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 7,
+			"duty_name": "CT E",
+			"duty_type": 1,
+			"category": 1,
+			"duration": 7,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 8,
+			"duty_name": "CT E",
+			"duty_type": 1,
+			"category": 3,
+			"duration": 6,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 9,
+			"duty_name": "8-2",
+			"duty_type": 1,
+			"category": 3,
+			"duration": 5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 10,
+			"duty_name": "CT N",
+			"duty_type": 1,
+			"category": 3,
+			"duration": 10,
+			"pattern": 3
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 11,
+			"duty_name": "MR",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 12,
+			"duty_name": "MR",
+			"duty_type": 2,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 13,
+			"duty_name": "MR OP",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 14,
+			"duty_name": "MR OP",
+			"duty_type": 2,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 15,
+			"duty_name": "MR OP2",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 16,
+			"duty_name": "MR3",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 17,
+			"duty_name": "MR3",
+			"duty_type": 2,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 18,
+			"duty_name": "MR1",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 19,
+			"duty_name": "MR1",
+			"duty_type": 2,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 20,
+			"duty_name": "MR Coordinator",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 21,
+			"duty_name": "MR 2",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 22,
+			"duty_name": "MR E",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 7,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 23,
+			"duty_name": "MR E",
+			"duty_type": 2,
+			"category": 3,
+			"duration": 6,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 24,
+			"duty_name": "MR 1.30-9",
+			"duty_type": 2,
+			"category": 1,
+			"duration": 6.5,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 25,
+			"duty_name": "MR 12.30-5",
+			"duty_type": 2,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 2
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 26,
+			"duty_name": "MR 8-2",
+			"duty_type": 2,
+			"category": 3,
+			"duration": 5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 27,
+			"duty_name": "MRI N",
+			"duty_type": 2,
+			"category": 3,
+			"duration": 10,
+			"pattern": 3
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 28,
+			"duty_name": "DSA",
+			"duty_type": 3,
+			"category": 1,
+			"duration": 8.5,
+			"pattern": 1
+		}
+	},
+	{
+		"duties": {
+			"duty_id": 29,
+			"duty_name": "DSA",
+			"duty_type": 3,
+			"category": 2,
+			"duration": 4.5,
+			"pattern": 1
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 1,
+			"duty_name": "CT",
+			"shift_number": [3, 3, 3, 3, 3, 0, 0, 3, 3, 3, 3, 3, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 2,
+			"duty_name": "CT",
+			"shift_number": [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 3,
+			"duty_name": "CT2",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 4,
+			"duty_name": "CT2",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 5,
+			"duty_name": "CT3",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 6,
+			"duty_name": "CT3",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 7,
+			"duty_name": "CT E",
+			"shift_number": [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 8,
+			"duty_name": "CT E",
+			"shift_number": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 9,
+			"duty_name": "8-2",
+			"shift_number": [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 10,
+			"duty_name": "CT N",
+			"shift_number": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 11,
+			"duty_name": "MR",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 12,
+			"duty_name": "MR",
+			"shift_number": [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 13,
+			"duty_name": "MR OP",
+			"shift_number": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 14,
+			"duty_name": "MR OP",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 15,
+			"duty_name": "MR OP2",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 16,
+			"duty_name": "MR3",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 17,
+			"duty_name": "MR3",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 18,
+			"duty_name": "MR1",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 19,
+			"duty_name": "MR1",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 20,
+			"duty_name": "MR Coordinator",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 21,
+			"duty_name": "MR 2",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 22,
+			"duty_name": "MR E",
+			"shift_number": [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 23,
+			"duty_name": "MR E",
+			"shift_number": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 24,
+			"duty_name": "MR 1.30-9",
+			"shift_number": [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 25,
+			"duty_name": "MR 12.30-5",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 26,
+			"duty_name": "MR 8-2",
+			"shift_number": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 27,
+			"duty_name": "MRI N",
+			"shift_number": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 28,
+			"duty_name": "DSA",
+			"shift_number": [1, 2, 2, 2, 2, 0, 0, 1, 2, 2, 2, 2, 0, 0]
+		}
+	},
+	{
+		"shift_duties": {
+			"duty_id": 29,
+			"duty_name": "DSA",
+			"shift_number": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+		}
+	}
+]
